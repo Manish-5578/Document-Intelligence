@@ -10,8 +10,8 @@ from google.generativeai.types import HarmCategory, HarmBlockThreshold
 # ======================================================
 # CONFIGURATION
 # ======================================================
-API_KEY = "AIzaSyBZpsE0jIbe4irgopRuAqqMij0Z9qJPcNA"
-FOLDER_PATH = r"D:\DocumentI\Sample_Data"
+API_KEY = "Google_API_Key"
+FOLDER_PATH = r"FOlder_Path"
 INDEX_FILE = "domain_knowledge_index.json"
 
 # Safety Settings
@@ -240,4 +240,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = DocIntelliApp(root)
     root.mainloop()
+
     root.mainloop()
