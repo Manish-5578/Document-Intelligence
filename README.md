@@ -26,5 +26,6 @@ An AI-powered tool that uses Google Gemini 2.5 to ingest, index, search, and cha
 3.  Type a query to search or chat with the AI!
 
 ## 📸 Screenshots
-<img width="598" height="545" alt="image" src="https://github.com/user-attachments/assets/f45b5cd6-bc94-4d10-84af-386e7691da43" />
+<img width="598" height="545" alt="image" src=<img width="957" height="560" alt="image" src="https://github.com/user-attachments/assets/eb5d836d-3318-439f-8db2-91917779c2bd" />
+" />
 
