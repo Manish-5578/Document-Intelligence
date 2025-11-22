@@ -1,2 +1,29 @@
-# Document-Intelligence
-An AI-powered desktop application designed to automate the extraction, classification, and analysis of unstructured documents (Invoices, Contracts, IDs). Built using Python and Google Gemini 2.5, this tool replaces manual data entry with a conversational AI interface.
+# Document Intelligence AI Agent 📄🤖
+
+An AI-powered tool that uses Google Gemini 2.5 to ingest, index, search, and chat with PDF documents (Invoices, Contracts, IDs, etc.). Built with Python and Tkinter.
+
+## 🚀 Features
+* **Smart Indexing:** Automatically classifies documents (Financial, Legal, Identity).
+* **Semantic Search:** Find documents using natural language (e.g., "Find the invoice for $500").
+* **AI Chat:** Chat with your documents to extract specific details.
+* **GUI Dashboard:** User-friendly interface built with Tkinter.
+
+## 🛠️ Setup & Installation
+1.  **Clone the repo:**
+    ```bash
+    git clone [https://github.com/YOUR_USERNAME/document-intelligence-ai.git](https://github.com/YOUR_USERNAME/document-intelligence-ai.git)
+    ```
+2.  **Install requirements:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+3.  **Add your API Key:**
+    Open `main.py` and paste your Google Gemini API Key.
+
+## 📂 Usage
+1.  Run the application: `python main.py`
+2.  Click **"Scan & Index"** to process your documents.
+3.  Type a query to search or chat with the AI!
+
+## 📸 Screenshots
+(You can add a screenshot of your UI here later)
